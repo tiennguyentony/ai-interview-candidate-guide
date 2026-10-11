@@ -39,17 +39,33 @@ Five areas, each from 1 to 4. They are not averaged.
 5. **Honesty:** you say what you didn't check, don't overclaim, and are
    open about what the AI wrote.
 
-## Files in this guide
+## Start here
 
-| File | Read it when |
+1. Read this page and [worked-example.md](worked-example.md) (10 minutes)
+   to see what interviewers notice.
+2. Follow the two-week plan in [how-to-prepare.md](how-to-prepare.md).
+3. The day before a mock, read [during-the-session.md](during-the-session.md)
+   and keep [cheat-sheet.md](cheat-sheet.md) open.
+4. After every mock, fill in [self-review.md](self-review.md).
+
+## Everything in this guide
+
+| File | What it's for |
 |---|---|
-| [how-to-prepare.md](how-to-prepare.md) | First. Setup checklist and a two-week plan |
-| [part-1-when-ai-gets-it-wrong.md](part-1-when-ai-gets-it-wrong.md) | Before practising Part 1: how AI misleads you and how to catch it |
-| [part-2-building-features.md](part-2-building-features.md) | Before practising Part 2: context, planning, reviewing diffs, tests |
-| [during-the-session.md](during-the-session.md) | The day before: what to say, timing, common mistakes |
-| [your-own-ai-experience.md](your-own-ai-experience.md) | Before any conversation about how you use AI in your own projects |
-| [drills.md](drills.md) | Short daily practice on any codebase |
-| [self-review.md](self-review.md) | After every mock: score yourself and plan what to practise next |
+| [how-to-prepare.md](how-to-prepare.md) | Setup checklist and a two-week plan |
+| [practice-repos.md](practice-repos.md) | The ten practice repos used in mocks, with setup commands |
+| [worked-example.md](worked-example.md) | The same ticket handled by a weak and a strong candidate, with what the interviewer sees |
+| [part-1-when-ai-gets-it-wrong.md](part-1-when-ai-gets-it-wrong.md) | How AI misleads you, and how to catch it and prove what's true |
+| [part-2-building-features.md](part-2-building-features.md) | Context, planning, prompts, reviewing diffs, tests, PR descriptions |
+| [practice/](practice/README.md) | Eight self-check exercises with [solutions](practice/solutions.md) |
+| [prompt-library.md](prompt-library.md) | Prompts to copy for exploring, debugging, planning and reviewing |
+| [concepts.md](concepts.md) | Topics AI often gets wrong: time zones, money, races, auth, injection and more |
+| [during-the-session.md](during-the-session.md) | What to say, timing, common mistakes |
+| [cheat-sheet.md](cheat-sheet.md) | One page to keep beside you |
+| [your-own-ai-experience.md](your-own-ai-experience.md) | Preparing to talk about how you use AI in your own projects |
+| [drills.md](drills.md) | Twelve 10–15 minute drills for any codebase |
+| [self-review.md](self-review.md) | Score yourself after a mock and plan what to practise next |
+| [faq.md](faq.md) | Common questions |
 
 ## The one-sentence version
 
